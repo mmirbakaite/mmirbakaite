@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS Certified Cloud Practitioner Essentials**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mmirbakaite?tab=repositories](https://github.com/mmirbakaite)
+- 👨‍💻 All of my projects are available at [https://github.com/mmirbakaite](https://github.com/mmirbakaite?tab=repositories)
 
 - 📫 How to reach me **mmirbakaite@gmail.com**
 
