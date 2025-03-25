@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently stepping into [Artificial Intelligence](https://github.com/mmirbakaite/Artificial-Intelligence-Fundamentals.git)
 
-- 🌱 I’m currently learning **AWS Certified Cloud Practitioner Essentialss**
+- 🌱 I’m currently learning **AWS Certified Cloud Practitioner Essentials**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mmirbakaite](https://github.com/mmirbakaite)
 
